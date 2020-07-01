@@ -1,0 +1,2 @@
+https://devnetwork.io/electronjs-with-reactjs/
+https://devnetwork.io/react-js-with-webpack4/
