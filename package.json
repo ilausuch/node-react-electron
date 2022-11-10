@@ -10,7 +10,7 @@
     "electron": "yarn run build && electron ."
   },
   "dependencies": {
-    "electron": "^9.0.5",
+    "electron": "^18.3.7",
     "react": "^16.13.1",
     "react-dom": "^16.13.1"
   },
